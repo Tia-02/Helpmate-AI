@@ -14,8 +14,8 @@ The main objectives of the project are:
 RAG System Architecture
 
 Components:
-<br>•	Data Loading </br>
-<br>•	Building query engine</br>
-<br>•	Creating a Response Pipeline</br>
-<br>•	Build a Testing Pipeline</br>
-<br>•	Optimization and fine-tuning</br>
+<br>•	Data Loading
+<br>•	Building query engine
+<br>•	Creating a Response Pipeline
+<br>•	Build a Testing Pipeline
+<br>•	Optimization and fine-tuning
