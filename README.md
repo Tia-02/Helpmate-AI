@@ -13,7 +13,7 @@ The main objectives of the project are:
 4.	System Design
 <br><b>RAG System Architecture</b>
 
-<br><img width="452" alt="image" src="https://github.com/user-attachments/assets/864927eb-a2e2-4ae1-8c9a-7fd9f1cb3dbc">
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/864927eb-a2e2-4ae1-8c9a-7fd9f1cb3dbc">
 <br><img width="452" alt="image" src="https://github.com/user-attachments/assets/12550696-70fd-4c63-86c0-b1ecf741239b">
 
 Components:
