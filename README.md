@@ -11,7 +11,10 @@ The main objectives of the project are:
 •	Leverage LangChain or LlamaIndex to create this generative search solution.
 
 4.	System Design
-RAG System Architecture
+<b>RAG System Architecture</b>
+
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/864927eb-a2e2-4ae1-8c9a-7fd9f1cb3dbc">
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/12550696-70fd-4c63-86c0-b1ecf741239b">
 
 Components:
 <br>•	Data Loading
